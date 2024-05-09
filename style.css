@@ -1,0 +1,5 @@
+body {
+    background-image: url(img/Háttér.jpg);
+    background-repeat: repeat-x repeat-y;
+    background-size: cover;
+}
