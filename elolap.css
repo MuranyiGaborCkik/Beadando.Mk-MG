@@ -1,4 +1,21 @@
 body {
  background-color: rgb(24, 24, 24);
+    color: white;
 }
 
+main h1 {
+    color: rgb(106, 132, 170);
+}
+
+main div {
+    width: 1000px;
+}
+
+#jobbra {
+    float: right;
+}
+
+main ol img {
+    margin-top: 100px;
+    width: 300px;
+}
