@@ -15,18 +15,18 @@ main h5 {
     margin-bottom: 20px;
 }
 
-/* #outnow {
+#outnow {
     background-image: url("img/202210567_Mitski_EbruYildiz_1370_WEB_1.webp");
-    width: 120%;
-    height: 850px; 
-} */
+    width: 100%;
+    height: 800px; 
+}
 
 
 
 #outnow h1 {
-    color: teal;
+    color: rgb(200, 231, 231);
     font-variant: small-caps;
-    font-size: 50px;
+    font-size: 30px;
     text-align: left;
     font-variant: small-caps;
     position: relative;
@@ -58,10 +58,13 @@ main h5 {
     font-size: 25px;
     text-align: center;
     position: relative;
+    
+}
+
+#fentigomb {
     bottom: 350px;
     margin: 35px;
 }
-
 
 .listen:hover {
     transition-duration: 0.2s;
@@ -69,11 +72,10 @@ main h5 {
     color: white;
 }
 
-.kep {
-    width: 600px;
-    float: right;
-}
-
 #Mitski_Tracklist {
     height: 100px;
+}
+
+main img {
+    margin: 30px;
 }
