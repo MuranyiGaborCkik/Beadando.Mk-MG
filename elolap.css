@@ -11,11 +11,31 @@ main div {
     width: 1000px;
 }
 
-#jobbra {
-    float: right;
-}
-
 main ol img {
     margin-top: 100px;
     width: 300px;
+    float: left;
+}
+
+#TRACKLIST {
+    margin-left: 20px ;
+}
+
+#Listen {
+    background-color:rgb(24, 24, 24);
+    color: orange;
+    border: 2px solid orange;
+    border-radius: 5px;
+    height: 50px;
+    width: 80px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    font-variant: small-caps;
+}
+
+#Listen:hover {
+    background-color: orange;
+    color: white;
+    transition-duration: 0.2s;
 }
