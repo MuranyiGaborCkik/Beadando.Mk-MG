@@ -1,5 +1,5 @@
 body {
- background-color: rgb(24, 24, 24);
+ background-color: rgb(15, 15, 15);
 }
 
 main ol {
@@ -12,15 +12,16 @@ main h1 {
 
 main h5 {
     color: orange;
+    margin-bottom: 20px;
 }
 
 #outnow {
-    background-color: wheat;
-    height: 200px;
+    background-image: url("img/202210567_Mitski_EbruYildiz_1370_WEB_1.webp");
+    height: 850px;
 }
 
 .listen {
-    background-color:rgb(24, 24, 24);
+    background: transparent;
     border: 2px solid orange;
     border-radius: 5px;
     color: orange;
@@ -35,4 +36,13 @@ main h5 {
     transition-duration: 0.2s;
     background-color: orange;
     color: white;
+}
+
+.körbefuttatas {
+    clear: both;
+}
+
+.kep {
+    width: 600px;
+    float: right;
 }
