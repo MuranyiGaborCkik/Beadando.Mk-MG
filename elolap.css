@@ -2,7 +2,10 @@ body {
  background-color: rgb(24, 24, 24);
     color: white;
 }
+<<<<<<< HEAD
+=======
 
+<<<<<<< HEAD
 main h1 {
     color: rgb(106, 132, 170);
 }
@@ -39,3 +42,6 @@ main ol img {
     color: white;
     transition-duration: 0.2s;
 }
+=======
+>>>>>>> 5b3fd98ca71789375c44a308b973026117f1b7b6
+>>>>>>> 86a1e7006cbab1cec1c610eb1676b65e1c37594e
