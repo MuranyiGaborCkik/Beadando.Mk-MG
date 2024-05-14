@@ -1,3 +1,38 @@
 body {
  background-color: rgb(24, 24, 24);
 }
+
+main ol {
+    color: white;
+}
+
+main h1 {
+    color: teal;
+}
+
+main h5 {
+    color: orange;
+}
+
+#outnow {
+    background-color: wheat;
+    height: 200px;
+}
+
+.listen {
+    background-color:rgb(24, 24, 24);
+    border: 2px solid orange;
+    border-radius: 5px;
+    color: orange;
+    width: 80px;
+    height: 50px;
+    font-variant: small-caps;
+    font-size: 20px;
+    text-align: center;
+}
+
+.listen:hover {
+    transition-duration: 0.2s;
+    background-color: orange;
+    color: white;
+}
