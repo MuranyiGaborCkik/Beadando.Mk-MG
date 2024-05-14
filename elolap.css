@@ -15,22 +15,53 @@ main h5 {
     margin-bottom: 20px;
 }
 
-#outnow {
+/* #outnow {
     background-image: url("img/202210567_Mitski_EbruYildiz_1370_WEB_1.webp");
-    height: 850px;
+    width: 120%;
+    height: 850px; 
+} */
+
+
+
+#outnow h1 {
+    color: teal;
+    font-variant: small-caps;
+    font-size: 50px;
+    text-align: left;
+    font-variant: small-caps;
+    position: relative;
+    bottom: 350px;
+    width: 100%;
+    margin-left: 40px;
 }
+
+#outnow h5 {
+    color: orange;
+    font-variant: small-caps;
+    font-size: 20px;
+    text-align: left;
+    font-variant: small-caps;
+    position: relative;
+    bottom: 320px;
+    width: 100%;
+    margin: 35px;
+} 
 
 .listen {
     background: transparent;
     border: 2px solid orange;
-    border-radius: 5px;
+    border-radius: 8px;
     color: orange;
-    width: 80px;
-    height: 50px;
+    width: 130px;
+    height: 60px;
     font-variant: small-caps;
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
+    position: relative;
+    bottom: 350px;
+    margin: 35px;
 }
+
 
 .listen:hover {
     transition-duration: 0.2s;
@@ -38,11 +69,11 @@ main h5 {
     color: white;
 }
 
-.körbefuttatas {
-    clear: both;
-}
-
 .kep {
     width: 600px;
     float: right;
+}
+
+#Mitski_Tracklist {
+    height: 100px;
 }
