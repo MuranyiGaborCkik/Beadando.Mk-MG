@@ -16,11 +16,21 @@ body {
 }
 
 .btn:hover {
-    background-color: black;
-    color: white;
-    border-color: white;
+    background-color: lightgrey;
+    color:black;
+    border-color: black;
 }
 
 .btn:hover:active {
     background-color:black;
+}
+
+.form-control {
+    border-color: black;
+    color: black;
+}
+
+.form-control:hover {
+    background-color: lightgrey;
+    color: white;
 }
