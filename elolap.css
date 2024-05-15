@@ -21,8 +21,6 @@ main h5 {
     height: 800px; 
 }
 
-
-
 #outnow h1 {
     color: rgb(200, 231, 231);
     font-variant: small-caps;
@@ -58,19 +56,20 @@ main h5 {
     font-size: 25px;
     text-align: center;
     position: relative;
-    
-}
-
-#fentigomb {
-    bottom: 350px;
-    margin: 35px;
+    padding-inline: 15px;
+    padding-block: 5px;
+    text-decoration: none;
 }
 
 .listen:hover {
     transition-duration: 0.2s;
     background-color: orange;
     color: white;
-}
+ }
+ 
+ #fentigomb {
+  margin-right: 670px;
+ }
 
 #Mitski_Tracklist {
     height: 100px;
@@ -78,4 +77,20 @@ main h5 {
 
 main img {
     margin: 30px;
+}
+
+#carouselExampleCaptions h1 {
+    color: rgb(147, 172, 194);
+    font-variant: small-caps;
+    position: relative;
+    margin-bottom: 45px;
+}
+
+#carouselExampleCaptions p {
+    color: orange;
+    font-variant: small-caps;
+    position: relative;
+    margin-bottom: 5px;
+    margin-right: 710px;
+    font-size: 15px;
 }
