@@ -3,5 +3,34 @@ body {
 }
 
 .kereso {
-    padding-right: 150px;
+    padding-right: 110px;
+    top: auto;
+}
+
+.btn {
+    position: absolute;
+    right: 40px;
+    top: 10px;
+    border-color: black;
+    color: black;
+}
+
+.btn:hover {
+    background-color: lightgrey;
+    color:black;
+    border-color: black;
+}
+
+.btn:hover:active {
+    background-color:black;
+}
+
+.form-control {
+    border-color: black;
+    color: black;
+}
+
+.form-control:hover {
+    background-color: lightgrey;
+    color: white;
 }
