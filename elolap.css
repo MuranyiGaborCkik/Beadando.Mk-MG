@@ -78,19 +78,3 @@ main h5 {
 main img {
     margin: 30px;
 }
-
-#carouselExampleCaptions h1 {
-    color: rgb(147, 172, 194);
-    font-variant: small-caps;
-    position: relative;
-    margin-bottom: 45px;
-}
-
-#carouselExampleCaptions p {
-    color: orange;
-    font-variant: small-caps;
-    position: relative;
-    margin-bottom: 5px;
-    margin-right: 710px;
-    font-size: 15px;
-}
