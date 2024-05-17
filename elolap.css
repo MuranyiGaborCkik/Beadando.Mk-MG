@@ -2,13 +2,12 @@ body {
  background-color: rgb(15, 15, 15);
 }
 
-main ol {
-    list-style-type: none;
-    color: white;
-}
-
 main li {
     margin: 8px;
+}
+
+#TRACKLIST p {
+    margin-bottom: 3px;
 }
 
 .listen {
@@ -25,6 +24,7 @@ main li {
     padding-inline: 15px;
     padding-block: 5px;
     text-decoration: none;
+    margin: 10px;
 }
 
 .listen:hover {
@@ -43,6 +43,8 @@ main img {
 }
 
 #TRACKLIST {
+    margin-top: ;
+    font-size: 30px;
     color: whitesmoke;
     margin-top: 30px;
     margin-left: 150px;
