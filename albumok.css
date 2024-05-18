@@ -36,7 +36,8 @@ body {
 }
 
 .card {
-    margin: 50px;
+    margin-block: 40pxgit;
+    margin-inline: 100px;
     font-variant: small-caps;
     background-color: transparent;
     color: whitesmoke;
@@ -63,4 +64,16 @@ body {
     background-color: transparent;
     color: orange;
     border: 2px solid orange;
+}
+
+main  #listentext {
+    height: 200px;
+}
+
+#listentext h1 {
+    font-variant: small-caps;
+    font-size: 75px;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 150px;
 }
