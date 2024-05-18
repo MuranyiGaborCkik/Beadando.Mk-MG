@@ -43,7 +43,6 @@ main img {
 }
 
 #TRACKLIST {
-    margin-top: ;
     font-size: 30px;
     color: whitesmoke;
     margin-top: 30px;
@@ -58,4 +57,17 @@ main img {
     font-variant: small-caps;
     font-weight: 750;
     font-size: 10px;
+}
+
+#video video {
+    width: 80%;
+    position: relative;
+    margin-top: 70px;
+    margin-left: 150px ;
+}
+
+footer {
+    height: 400px;
+    background-color: orange;
+    margin-top: 50px;
 }
