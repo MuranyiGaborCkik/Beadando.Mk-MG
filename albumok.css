@@ -34,3 +34,33 @@ body {
     background-color: lightgrey;
     color: white;
 }
+
+.card {
+    margin: 50px;
+    font-variant: small-caps;
+    background-color: transparent;
+    color: whitesmoke;
+}
+
+.Listen {
+    background: orange;
+    border: 2px solid orange;
+    border-radius: 8px;
+    color: black;
+    width: 130px;
+    height: 60px;
+    font-variant: small-caps;
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    padding-inline: 15px;
+    padding-block: 5px;
+    text-decoration: none;
+}
+
+.Listen:hover {
+    transition-duration: 0.2s;
+    background-color: transparent;
+    color: orange;
+    border: 2px solid orange;
+}
