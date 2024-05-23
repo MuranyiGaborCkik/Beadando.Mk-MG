@@ -2,29 +2,6 @@ body {
     background-color: rgb(24, 24, 24);
 }
 
-.kereso {
-    padding-right: 110px;
-    top: auto;
-}
-
-.btn {
-    position: absolute;
-    right: 40px;
-    top: 10px;
-    border-color: black;
-    color: black;
-}
-
-.btn:hover {
-    background-color: lightgrey;
-    color:black;
-    border-color: black;
-}
-
-.btn:hover:active {
-    background-color:black;
-}
-
 .form-control {
     border-color: black;
     color: black;
@@ -41,6 +18,12 @@ body {
     font-variant: small-caps;
     background-color: transparent;
     color: whitesmoke;
+    text-align: center;
+
+}
+
+.row>div {
+    
 }
 
 #LastCard {
