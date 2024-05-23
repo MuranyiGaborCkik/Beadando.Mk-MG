@@ -2,11 +2,6 @@ body {
     background-color: rgb(24, 24, 24);
 }
 
-.kereso {
-    padding-right: 110px;
-    top: auto;
-}
-
 .btn {
     position: absolute;
     right: 40px;
@@ -74,11 +69,6 @@ body {
 
 body {
     background-color: rgb(24, 24, 24);
-}
-
-.kereso {
-    padding-right: 110px;
-    top: auto;
 }
 
 .btn {
