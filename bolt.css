@@ -74,6 +74,7 @@ body {
     position: relative;
     margin: 0px auto;
     width: 1100px;
+    height: 200px;
 }
 
 header #storeh1 {
@@ -82,10 +83,6 @@ header #storeh1 {
     text-align: center;
     margin-top: 60px;
     font-size: 65px;
-}
-
-#storeh1 {
-    height: 200px;
 }
 
 hr {
