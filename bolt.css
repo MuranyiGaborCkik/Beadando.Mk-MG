@@ -70,25 +70,13 @@ body {
     border: 2px solid orange;
 }
 
-main  #listentext {
-    height: 200px;
-}
-
-#listenh1 {
+#storeh1 {
     position: relative;
     margin: 0px auto;
     width: 1100px;
 }
 
-#listentext h1 {
-    font-variant: small-caps;
-    font-size: 75px;
-    color: whitesmoke;
-    text-align: center;
-    margin-top: 150px;
-}
-
-main h1 {
+header #storeh1 {
     color: whitesmoke;
     font-variant: small-caps;
     text-align: center;
@@ -96,7 +84,7 @@ main h1 {
     font-size: 65px;
 }
 
-#listenh1 {
+#storeh1 {
     height: 200px;
 }
 
