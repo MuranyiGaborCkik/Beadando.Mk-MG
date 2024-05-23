@@ -110,6 +110,11 @@ footer {
     background-color: orange;
 }
 
-main {
+.row {
     margin-bottom: 50px;
+    margin-left: 0px !important;
+}
+
+#AlbumsDiv {
+    margin: 0px auto;
 }
