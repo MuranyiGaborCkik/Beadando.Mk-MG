@@ -4,15 +4,15 @@ body {
     background-color: rgb(15, 15, 15);
    }
    
-   main li {
+main li {
        margin: 8px;
    }
    
-   #TRACKLIST p {
+#TRACKLIST p {
        margin-bottom: 3px;
    }
    
-   .listen {
+.listen {
        background: transparent;
        border: 2px solid orange;
        border-radius: 8px;
@@ -29,22 +29,22 @@ body {
        margin: 10px;
    }
    
-   .listen:hover {
+.listen:hover {
        transition-duration: 0.2s;
        background-color: orange;
        color: white;
     }
     
-    #fentigomb {
+#fentigomb {
      margin-right: 670px;
     }
    
    
-   main img {
+main img {
        margin: 50px;
    }
    
-   #TRACKLIST {
+#TRACKLIST {
        font-size: 30px;
        color: whitesmoke;
        margin-top: 30px;
@@ -53,7 +53,7 @@ body {
        width: 400px;
    }
    
-   .carousel-caption p {
+.carousel-caption p {
        margin: 5px;
        color: orange;
        font-variant: small-caps;
@@ -61,26 +61,26 @@ body {
        font-size: 25px;
    }
    
-   #video video {
+#video video {
        width: 80%;
        position: relative;
        margin-top: 70px;
        margin-left: 150px ;
    }
    
-   footer {
+footer {
        height: 300px;
        background-color: orange;
        margin-top: 50px;
    }
    
-   footer h5 {
+footer h5 {
        font-variant: small-caps;
        margin-top: 80px;
        margin-left: 50px;
    }
 
-.navbar{
+.navbar {
     font-size: 20px;
     padding-right: 20px;
     padding-left: 20px;
@@ -90,6 +90,11 @@ body {
 
 
 /*Gallery*/
+
+.video-szoveg {
+    color: white;
+    text-align: center;
+}
 
 body {
     background-color: rgb(24, 24, 24);
@@ -307,10 +312,6 @@ body {
 
 }
 
-.row>div {
-    
-}
-
 #LastCard {
     margin-bottom: 150px;
 }
@@ -464,6 +465,17 @@ footer h5 {
 
 .accordion-button {
     background-color: orange;
+    color: black;
+}
+
+.accordion-body {
+    background-color: orange;
+    padding-top: 5px;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: white;
+    color: black;
 }
 
 
