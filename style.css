@@ -240,15 +240,6 @@ main {
     margin-bottom: 50px;
 }
 
-footer {
-    height: 200px;
-    background-color: orange;
-}
-
-main {
-    margin-bottom: 50px;
-}
-
 main h2 {
     color: white;
     font-variant: small-caps;
@@ -532,13 +523,17 @@ body {
 }
 
 #storeh1 {
-    position: relative;
-    margin: 0px auto;
-    width: 1100px;
+    position: relative; 
+    margin: 0px auto; 
+    width: 1100px; 
     height: 200px;
 }
 
 header #storeh1 {
+    background-image: url(img/Store_edited.jpg);
+    background-size: 100%;
+    background-position-y: center;
+    background-position-x: center;
     color: whitesmoke;
     font-variant: small-caps;
     text-align: center;
@@ -549,7 +544,7 @@ header #storeh1 {
 hr {
     background: orange;
     position: relative;
-    top: 20px;
+    top: 60px;
     bottom: 50px;
     border: none;
     height: 2px;
