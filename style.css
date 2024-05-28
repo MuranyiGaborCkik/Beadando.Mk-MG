@@ -2,6 +2,7 @@
 
 body {
     background-color: rgb(15, 15, 15);
+    margin: 0px;
    }
    
 main li {
@@ -79,6 +80,7 @@ footer h5 {
        margin-top: 80px;
        margin-left: 50px;
    }
+
 
 .navbar {
     font-size: 20px;
